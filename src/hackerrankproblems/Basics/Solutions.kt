@@ -1,0 +1,4 @@
+package ProblemsForBrainStorming
+
+class Solutions {
+}
